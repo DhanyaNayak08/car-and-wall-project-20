@@ -1,1 +1,2 @@
-# car-and-wall-project-20
+# collisionAlgorithm
+Algorithm to detect collision between two objects
